@@ -3,7 +3,7 @@ body{
 }
 /*header-section*/
 .fixed-top{
-    background-color: #F0FFF0;
+    background-color: #F0FFF0!important;
 }
 .container-margin-top{
     margin-top: 60px;
