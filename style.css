@@ -2,6 +2,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /*header-section*/
+.fixed-top{
+    background-color: #F0FFF0;
+}
+.container-margin-top{
+    margin-top: 80px;
+}
 .header-section{
     background-color: #F0FFF0;
 }
