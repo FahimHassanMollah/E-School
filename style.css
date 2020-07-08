@@ -33,17 +33,48 @@ body{
 
 }
 
-.card-2{
+.article-section .card-2{
     background-color: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 10px 20px lightgray;
 }
 .background-color-card{
+    border: none;
     background-color: #F0FFF0!important;
 }
-
 
 /*article section ends*/
 
 
+/*online-course section starts*/
+.online-course .card-deck .card{
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 10px 20px lightgray;
+}
+/*online-course section ends*/
+
+
+/*testimonial section starts*/
+
+
+.testimonial-section p{
+    font-size: 16px;
+}
+/*testimonial section ends*/
+
+/*footer*/
+footer{
+    background-color: #282531;
+}
+.pointer{
+    cursor: pointer;
+}
+.copyright h6{
+    font-size: 16px;
+}
 @media (min-width: 992px)
 {
     .navbar-expand-lg .navbar-nav .nav-link {
